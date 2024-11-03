@@ -22,9 +22,7 @@ public class Documental extends ContenidoAudiovisual {
             investigadores.add(investigador);
         }
     }
-    public void eliminarInvestigador(Investigador investigador) {
-        investigadores.remove(investigador);
-    }
+
     public String getTema() {
         return tema;
     }
