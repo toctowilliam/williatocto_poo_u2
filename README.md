@@ -21,4 +21,5 @@ Este proyecto tiene como objetivo crear un sistema de gestión de contenidos aud
 ### Mejoras Adicionales
 
 Optimización de Código: Los métodos mostrarDetalles en las subclases han sido optimizados para ofrecer una salida clara y detallada.
+
 Escalabilidad: El diseño permite agregar fácilmente nuevas subclases de ContenidoAudiovisual para expandir el tipo de contenidos gestionados en el sistema.
